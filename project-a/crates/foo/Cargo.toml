@@ -2,3 +2,6 @@
 name = "foo"
 version.workspace = true
 edition = "2021"
+
+[dependencies]
+embassy-stm32 = { version = "=0.6.0", default-features = false, features = ["stm32f407ig"] }
