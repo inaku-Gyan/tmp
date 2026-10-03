@@ -1,4 +1,4 @@
 [package]
-name = "bar"
+name = "baz"
 version.workspace = true
 edition = "2021"
